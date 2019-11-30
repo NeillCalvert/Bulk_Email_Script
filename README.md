@@ -5,7 +5,7 @@ It was originally used in conjunction with beautiful soup to scrape a webpage fo
 
 <h3>Ensuring Your Email Login is not Rejected</h3>
 <p>To ensure you do not receive an unauthorised access error there are a few options.</p>
-<nl>
+<ol>
   <li>Turn secure app access off here: https://myaccount.google.com/lesssecureapps</li>
   <li>Turn on 2 step verification: https://myaccount.google.com/signinoptions/two-step-verification, then create an app password: https://myaccount.google.com/apppasswords</li>
-<nl>
+<ol>
